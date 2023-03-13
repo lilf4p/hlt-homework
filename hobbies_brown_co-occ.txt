@@ -1,0 +1,115 @@
+5 5
+------Word: python------
+Word not found
+------------
+------Word: snake------
+Word not found
+------------
+------Word: language------
+Word not found
+------------
+------Word: cobra------
+Word not found
+------------
+------Word: food------
+--Context word: [and] --Occurrency: 9.0
+--Context word: [of] --Occurrency: 6.0
+--Context word: [the] --Occurrency: 6.0
+--Context word: [to] --Occurrency: 4.0
+--Context word: [that] --Occurrency: 3.0
+--Context word: [with] --Occurrency: 3.0
+--Context word: [good] --Occurrency: 2.0
+--Context word: [shade] --Occurrency: 2.0
+--Context word: [water] --Occurrency: 2.0
+--Context word: [for] --Occurrency: 2.0
+------------
+------Word: bread------
+--Context word: [or] --Occurrency: 2.0
+--Context word: [a] --Occurrency: 2.0
+--Context word: [salad] --Occurrency: 2.0
+--Context word: [good] --Occurrency: 1.0
+--Context word: [and] --Occurrency: 1.0
+--Context word: [as] --Occurrency: 1.0
+--Context word: [drink] --Occurrency: 1.0
+--Context word: [marinade] --Occurrency: 1.0
+--Context word: [meat] --Occurrency: 1.0
+--Context word: [corn] --Occurrency: 1.0
+------------
+------Word: wine------
+--Context word: [of] --Occurrency: 2.0
+--Context word: [either] --Occurrency: 1.0
+--Context word: [one] --Occurrency: 1.0
+--Context word: [and] --Occurrency: 1.0
+--Context word: [our] --Occurrency: 1.0
+--Context word: [at] --Occurrency: 1.0
+--Context word: [solvency] --Occurrency: 1.0
+--Context word: [beating] --Occurrency: 1.0
+--Context word: [took] --Occurrency: 1.0
+--Context word: [altitude] --Occurrency: 1.0
+------------
+------Word: beer------
+--Context word: [and] --Occurrency: 2.0
+--Context word: [or] --Occurrency: 2.0
+--Context word: [for] --Occurrency: 2.0
+--Context word: [frozen] --Occurrency: 1.0
+--Context word: [drinks] --Occurrency: 1.0
+--Context word: [convenience] --Occurrency: 1.0
+--Context word: [be] --Occurrency: 1.0
+--Context word: [keep] --Occurrency: 1.0
+--Context word: [cooler] --Occurrency: 1.0
+--Context word: [soft] --Occurrency: 1.0
+------------
+------Word: barrels------
+--Context word: [to] --Occurrency: 3.0
+--Context word: [revolver] --Occurrency: 2.0
+--Context word: [cutting] --Occurrency: 1.0
+--Context word: [was] --Occurrency: 1.0
+--Context word: [made] --Occurrency: 1.0
+--Context word: [they] --Occurrency: 1.0
+--Context word: [shot] --Occurrency: 1.0
+--Context word: [out] --Occurrency: 1.0
+--Context word: [regulate] --Occurrency: 1.0
+--Context word: [before] --Occurrency: 1.0
+------------
+------Word: oil------
+--Context word: [the] --Occurrency: 26.0
+--Context word: [and] --Occurrency: 11.0
+--Context word: [for] --Occurrency: 11.0
+--Context word: [a] --Occurrency: 10.0
+--Context word: [in] --Occurrency: 9.0
+--Context word: [to] --Occurrency: 8.0
+--Context word: [of] --Occurrency: 8.0
+--Context word: [is] --Occurrency: 5.0
+--Context word: [company] --Occurrency: 5.0
+--Context word: [or] --Occurrency: 3.0
+------------
+------Word: energy------
+--Context word: [the] --Occurrency: 9.0
+--Context word: [of] --Occurrency: 5.0
+--Context word: [one] --Occurrency: 2.0
+--Context word: [and] --Occurrency: 2.0
+--Context word: [sound] --Occurrency: 2.0
+--Context word: [after] --Occurrency: 2.0
+--Context word: [pill] --Occurrency: 2.0
+--Context word: [by] --Occurrency: 2.0
+--Context word: [with] --Occurrency: 2.0
+--Context word: [has] --Occurrency: 1.0
+------------
+------Word: kuwait------
+Word not found
+------------
+------Word: revenues------
+Word not found
+------------
+------Word: profits------
+--Context word: [as] --Occurrency: 2.0
+--Context word: [the] --Occurrency: 2.0
+--Context word: [which] --Occurrency: 1.0
+--Context word: [is] --Occurrency: 1.0
+--Context word: [what] --Occurrency: 1.0
+--Context word: [well] --Occurrency: 1.0
+--Context word: [in] --Occurrency: 1.0
+--Context word: [effect] --Occurrency: 1.0
+--Context word: [behavior] --Occurrency: 0.0
+--Context word: [shaping] --Occurrency: 0.0
+------------

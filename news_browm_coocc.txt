@@ -1,0 +1,123 @@
+------Word: python------
+Word not found
+------------
+------Word: snake------
+--Context word: [and] --Occurrency: 2.0
+--Context word: [braced] --Occurrency: 1.0
+--Context word: [roadside] --Occurrency: 1.0
+--Context word: [are] --Occurrency: 1.0
+--Context word: [farms] --Occurrency: 1.0
+--Context word: [souvenir] --Occurrency: 1.0
+--Context word: [stands] --Occurrency: 1.0
+--Context word: [restaurants] --Occurrency: 1.0
+--Context word: [waiting] --Occurrency: 1.0
+--Context word: [tallahassee] --Occurrency: 0.0
+------------
+------Word: language------
+--Context word: [and] --Occurrency: 3.0
+--Context word: [science] --Occurrency: 2.0
+--Context word: [you] --Occurrency: 2.0
+--Context word: [think] --Occurrency: 1.0
+--Context word: [social] --Occurrency: 1.0
+--Context word: [biography] --Occurrency: 1.0
+--Context word: [problems] --Occurrency: 1.0
+--Context word: [education] --Occurrency: 1.0
+--Context word: [are] --Occurrency: 1.0
+--Context word: [have] --Occurrency: 1.0
+------------
+------Word: cobra------
+Word not found
+------------
+------Word: food------
+--Context word: [the] --Occurrency: 9.0
+--Context word: [of] --Occurrency: 7.0
+--Context word: [a] --Occurrency: 5.0
+--Context word: [to] --Occurrency: 4.0
+--Context word: [for] --Occurrency: 3.0
+--Context word: [and] --Occurrency: 3.0
+--Context word: [its] --Occurrency: 2.0
+--Context word: [that] --Occurrency: 2.0
+--Context word: [says] --Occurrency: 2.0
+--Context word: [they] --Occurrency: 2.0
+------------
+------Word: bread------
+--Context word: [coffee] --Occurrency: 1.0
+--Context word: [with] --Occurrency: 1.0
+--Context word: [yeast] --Occurrency: 1.0
+--Context word: [coconut] --Occurrency: 1.0
+--Context word: [vanilla] --Occurrency: 1.0
+--Context word: [and] --Occurrency: 1.0
+--Context word: [filling] --Occurrency: 1.0
+--Context word: [rich] --Occurrency: 1.0
+--Context word: [ring] --Occurrency: 1.0
+--Context word: [a] --Occurrency: 1.0
+------------
+------Word: wine------
+Word not found
+------------
+------Word: beer------
+--Context word: [a] --Occurrency: 2.0
+--Context word: [of] --Occurrency: 1.0
+--Context word: [clubs] --Occurrency: 1.0
+--Context word: [stein] --Occurrency: 1.0
+--Context word: [such] --Occurrency: 1.0
+--Context word: [mexican] --Occurrency: 1.0
+--Context word: [pubs] --Occurrency: 1.0
+--Context word: [at] --Occurrency: 1.0
+--Context word: [has] --Occurrency: 1.0
+--Context word: [that] --Occurrency: 1.0
+------------
+------Word: barrels------
+Word not found
+------------
+------Word: oil------
+--Context word: [and] --Occurrency: 5.0
+--Context word: [the] --Occurrency: 5.0
+--Context word: [of] --Occurrency: 4.0
+--Context word: [by] --Occurrency: 3.0
+--Context word: [union] --Occurrency: 2.0
+--Context word: [mill] --Occurrency: 2.0
+--Context word: [converted] --Occurrency: 2.0
+--Context word: [supplies] --Occurrency: 2.0
+--Context word: [they] --Occurrency: 2.0
+--Context word: [in] --Occurrency: 2.0
+------------
+------Word: energy------
+--Context word: [was] --Occurrency: 2.0
+--Context word: [of] --Occurrency: 1.0
+--Context word: [westinghouse] --Occurrency: 1.0
+--Context word: [commission] --Occurrency: 1.0
+--Context word: [displayed] --Occurrency: 1.0
+--Context word: [electric] --Occurrency: 1.0
+--Context word: [reactors] --Occurrency: 1.0
+--Context word: [it] --Occurrency: 1.0
+--Context word: [and] --Occurrency: 1.0
+--Context word: [any] --Occurrency: 1.0
+------------
+------Word: kuwait------
+Word not found
+------------
+------Word: revenues------
+--Context word: [the] --Occurrency: 15.0
+--Context word: [in] --Occurrency: 7.0
+--Context word: [a] --Occurrency: 5.0
+--Context word: [of] --Occurrency: 3.0
+--Context word: [net] --Occurrency: 3.0
+--Context word: [and] --Occurrency: 3.0
+--Context word: [on] --Occurrency: 3.0
+--Context word: [to] --Occurrency: 3.0
+--Context word: [result] --Occurrency: 2.0
+--Context word: [operating] --Occurrency: 2.0
+------------
+------Word: profits------
+--Context word: [the] --Occurrency: 3.0
+--Context word: [theaters] --Occurrency: 2.0
+--Context word: [of] --Occurrency: 1.0
+--Context word: [an] --Occurrency: 1.0
+--Context word: [downtown] --Occurrency: 1.0
+--Context word: [income] --Occurrency: 1.0
+--Context word: [sale] --Occurrency: 1.0
+--Context word: [tax] --Occurrency: 1.0
+--Context word: [causes] --Occurrency: 1.0
+--Context word: [besides] --Occurrency: 1.0
+------------
